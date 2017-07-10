@@ -8,6 +8,7 @@ Local development
 
 To use this script you must have [Docker installed](https://www.docker.com/products/docker).
 
+
 ### Run the server
 
 From within the project folder, run:
